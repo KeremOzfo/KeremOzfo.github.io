@@ -1,9 +1,8 @@
 ---
-title: "Teaching experience 1"
+title: "COMP 202 - Data structures and algorithms"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+permalink: /teaching/2022-fall-teaching-1
 date: 2014-01-01
 location: "City, Country"
 ---
