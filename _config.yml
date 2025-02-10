@@ -24,7 +24,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Kerem Özfatura"
-  bio              : "I am a MSc. Graduate from Koç University. My research interests include machine learning, deep learning, and Robustness in AI."
+  bio              : "I am a MSc. Graduate from Koç University. My research interests include large scale 
+  machine learning, deep learning, and Robustness in AI."
   location         : "Istanbul, Turkey"
   employer         : "Koç University / KUIS AI Lab"
   uri              : # URL
@@ -44,7 +45,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
