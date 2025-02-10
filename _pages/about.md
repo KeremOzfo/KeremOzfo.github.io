@@ -8,9 +8,5 @@ redirect_from:
 ---
 
 
-======
-
 Getting started
 ======
-
-Berfini cok seviyorum ben.
