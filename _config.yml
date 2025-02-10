@@ -23,8 +23,8 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  bio              : "Short biography for the left-hand sidebar"
+  name             : "Kerem Özfatura"
+  bio              : "I am a MSc. Graduate from Koç University. My research interests include machine learning, deep learning, and Robustness in AI."
   location         : "Istanbul, Turkey"
   employer         : "Koç University / KUIS AI Lab"
   uri              : # URL
