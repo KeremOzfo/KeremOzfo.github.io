@@ -1,5 +1,17 @@
 
+---
+permalink: /
+title: "About Me"
+author_profile: true
+redirect_from:
+- /about/
+- /about.html
+---
+
+
 ======
-Hello world
-New website on the works
+
+Getting started
 ======
+
+Berfini cok seviyorum ben.
