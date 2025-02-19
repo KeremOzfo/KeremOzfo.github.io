@@ -1,0 +1,18 @@
+---
+layout: archive
+title: "Libraries"
+permalink: /libraries/
+author_profile: true
+---
+
+{% if site.libraries %}
+{% for library in site.libraries %}
+<div class="library-item">
+    <h2>{{ library.title }}</h2>
+    <p>{{ library.description }}</p>
+    <a href="{{ library.url }}">Learn more</a>
+</div>
+{% endfor %}
+{% else %}
+<p>No libraries found.</p>
+{% endif %}
